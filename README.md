@@ -1,6 +1,8 @@
 # manual-captioning-helper
 The Image Tagger application is a Python script that allows you to tag images within a folder using a graphical user interface (GUI). It provides functionality to open a folder, navigate between images, annotate the images, and save the annotations.
 
+![Screenshot](Screenshot.png)
+
 ## Requirements
 
 - Python (3.6 or higher)
